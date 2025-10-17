@@ -1,1 +1,3 @@
 # Obsidian_DataviewJS
+view_default_mode，可以统计过去的修改次数落地到data.json中
+view.js只能统计库中修改时间和创建时间

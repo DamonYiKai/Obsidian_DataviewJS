@@ -3,3 +3,7 @@
 view_default_mode，可以统计过去的修改次数落地到data.json中
 
 view_cday_and_mday.js只能统计库中修改时间和创建时间
+
+HeatmapRadarCombined_and_save_data_to_datajson.js，热力图可以统计过去修改的数据，并落地数据到data.json中
+
+HeatmapRadarCombined_dafault_Heatmap.js 只能统计库中md文件的修改时间，创建时间
